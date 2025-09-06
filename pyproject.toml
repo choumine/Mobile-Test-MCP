@@ -1,0 +1,20 @@
+[project]
+name = "mobile-test-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "choumine", email = "569908115@qq.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "mcp[cli]>=1.13.1",
+    "pillow>=11.3.0",
+]
+
+[project.scripts]
+mobile-test-mcp = "mobile_test_mcp:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
