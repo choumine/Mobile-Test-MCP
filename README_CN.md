@@ -140,7 +140,7 @@ src/mobile_test_mcp/
 | **代码版本** | `v0.1.0`                                                                             |
 | **代码库** | [https://github.com/choumine/Mobile-Test-MCP](https://github.com/choumine/Mobile-Test-MCP)     |
 | **PyPI包** | [https://pypi.org/project/mobile-test-mcp/](https://pypi.org/project/mobile-test-mcp/) |
-| **许可证** | `MIT License`                                                                        |
+| **许可证** | `MIT`                                                                        |
 | **版本控制**| `Git`                                                                                |
 | **语言** | `Python`, `HTML`, `CSS`                                                              |
 | **依赖项** | `Python 3.10+`, `MCP`, `Pillow`                                                      |
