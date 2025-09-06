@@ -45,7 +45,7 @@
 **1. 📂 克隆代码库**
 
 ```bash
-git clone https://git.code.tencent.com/choumine/Mobile-Test-MCP.git "你的克隆路径"
+git clone https://github.com/choumine/Mobile-Test-MCP.git "你的克隆路径"
 # 示例：git clone ... "D:\\Mobile-Test-MCP"
 ```
 
@@ -138,11 +138,11 @@ src/mobile_test_mcp/
 | 类别             | 详细信息                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------ |
 | **代码版本** | `v0.1.0`                                                                             |
-| **代码库** | [腾讯代码库](https://git.code.tencent.com/choumine/Mobile-Test-MCP)     |
+| **代码库** | [https://github.com/choumine/Mobile-Test-MCP](https://github.com/choumine/Mobile-Test-MCP)     |
 | **PyPI包** | [https://pypi.org/project/mobile-test-mcp/](https://pypi.org/project/mobile-test-mcp/) |
 | **许可证** | `MIT License`                                                                        |
 | **版本控制**| `Git`                                                                                |
 | **语言** | `Python`, `HTML`, `CSS`                                                              |
 | **依赖项** | `Python 3.10+`, `MCP`, `Pillow`                                                      |
-| **文档** | [README.md](https://git.code.tencent.com/choumine/Mobile-Test-MCP/blob/master/README.md) |
+| **文档** | [https://github.com/choumine/Mobile-Test-MCP/blob/main/README.md](https://github.com/choumine/Mobile-Test-MCP/blob/main/README.md) |
 | **支持联系**| `2413593045@st.gxu.edu.cn`                                                           |

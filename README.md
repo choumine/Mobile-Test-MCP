@@ -45,7 +45,7 @@ You can get started by either cloning the repository or installing directly from
 **1. 📂 Clone the Repository**
 
 ```bash
-git clone https://git.code.tencent.com/choumine/Mobile-Test-MCP.git "your_clone_path"
+git clone https://github.com/choumine/Mobile-Test-MCP.git "your_clone_path"
 # Example: git clone ... "D:\\Mobile-Test-MCP"
 ```
 
@@ -137,11 +137,11 @@ src/mobile_test_mcp/
 | Category           | Details                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------ |
 | **Code Version** | `v0.1.0`                                                                             |
-| **Repository** | [Tencent Code Repository](https://git.code.tencent.com/choumine/Mobile-Test-MCP)     |
+| **Repository** | [https://github.com/choumine/Mobile-Test-MCP](https://github.com/choumine/Mobile-Test-MCP)     |
 | **PyPI Package** | [https://pypi.org/project/mobile-test-mcp/](https://pypi.org/project/mobile-test-mcp/) |
-| **License** | `MIT License`                                                                        |
+| **License** | `MIT`                                                                        |
 | **Version Control**| `Git`                                                                                |
 | **Languages** | `Python`, `HTML`, `CSS`                                                              |
 | **Dependencies** | `Python 3.10+`, `MCP`, `Pillow`                                                      |
-| **Documentation** | [README.md](https://git.code.tencent.com/choumine/Mobile-Test-MCP/blob/master/README.md) |
+| **Documentation** | [https://github.com/choumine/Mobile-Test-MCP/blob/main/README.md](https://github.com/choumine/Mobile-Test-MCP/blob/main/README.md) |
 | **Support Contact**| `2413593045@st.gxu.edu.cn`                                                           |
