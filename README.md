@@ -21,8 +21,6 @@ Automatically generate detailed HTML reports for every test run. Each report pro
 
 ## **Demo**
 
-![演示视频](images/Video_1.mp4)
-
 <img src="images/demo.gif" alt="Demo" style="display:block; margin:20px auto; border: 3px solid #4CAF50; border-radius: 10px; padding: 5px; box-shadow: 2px 2px 8px rgba(0,0,0,0.3); width:800px;" />
 
 -----
